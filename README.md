@@ -1,3 +1,3 @@
 # Python-Basic-Programs-
-Just some of the very basic python programs 
+Just some python programs 
 Might include some extras too
